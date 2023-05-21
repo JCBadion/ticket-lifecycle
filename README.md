@@ -1,4 +1,4 @@
-# ticket-lifecycle
+# Ticket-Lifecycle
 Showcasing the standard lifecycle of a ticket.
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
