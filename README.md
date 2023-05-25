@@ -29,6 +29,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
+<h3>Placeholder</h3>
 <img src="https://i.imgur.com/Gmz9dyy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
@@ -37,6 +38,7 @@ The beginning of a ticket's lifecycle begins with someone submitting a ticket to
 <br />
 
 <p>
+<h3>Placeholder</h3>
 <img src="https://i.imgur.com/hs72h1P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
@@ -44,6 +46,7 @@ From here we can see that the ticket has been created and is now in the system. 
 <br />
 
 <p>
+<h3>Placeholder</h3>
 <img src="https://i.imgur.com/TlBjz87.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
@@ -52,6 +55,7 @@ After Bob makes these changes to the ticket, the ticket thread will indicate tha
 <br />
 
 <p>
+<h3>Placeholder</h3>
 <img src="https://i.imgur.com/Xvw06GJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
@@ -60,6 +64,7 @@ Jake see's the ticket appear in his inbox because Bob assigned it to him. Jake a
 <br />
 
 <p>
+<h3>Placeholder</h3>
 <img src="https://i.imgur.com/sepzbqX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
